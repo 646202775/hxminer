@@ -1,10 +1,10 @@
 #!/bin/bash
-# Author: haoxie666
-# github: https://github.com/haoxie666
+# Author: SAINT
+# github: https://github.com/646202775
 
 VERSION="2.0.1"
 
-DOWNLOAD_HOST="https://github.com/646202775/hxminer/raw/main/Linux-64"
+DOWNLOAD_HOST="https://github.com/646202775/hxminer/blob/main/HXproxy_vcu-firs-2.0.1_linux"
 
 PATH_KT="/root/HXproxy"
 
